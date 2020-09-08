@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "SHUBHAM KOHLI",
+    "occupation": "ReactJS Developer && Student @CleverProgrammer",
+    "description": "Freelancer , keen learner and Ethusiast coder. #kingkohli",
+    "image": "shubham.jpg",
+    "bio": "My name is Shubham, On the way to become Full Stack ReactJS Developer. Currently I'm studying at ITM university gwalior pursuing btech in computer science and engineering ",
+    "contactmessage": "Get in touch with me to receive further details, for freelancing .",
+    "email": "shubhamkr5051@gmail.com",
+    "mobile": "6205799691",
+    "address": {
+      "street": "Ramjaipal road",
+      "city": "patna",
+      "state": "Bihar",
+      "zip": "801503"
+    },
+    "website": "http://www.shubhamkr5051.com",
+    "resumedownload": "http://shubhamkr5051.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shubham.kohli.948",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-kumar-8965221a0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yoyoviratkohli/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shubhamkumar5051",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "ITM university",
+        "degree": "bachelor in computer science and engineering",
+        "graduated": "will be graduated in august 2023",
+        "description": "will be Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "ITM university",
+        "title": "computer science student",
+        "years": "August 2019 - Present",
+        "description": "Enthusiast coder"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      },
+      {
+        "name": "c++",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "python",
+        "level": "99%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
