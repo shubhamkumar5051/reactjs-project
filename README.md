@@ -1,2 +1,2 @@
 # reactjs-project
-Portfolio of Shubham Kumar using ReactJS.
+Project on reactjs.
