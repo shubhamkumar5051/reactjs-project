@@ -264,7 +264,7 @@ ul#nav li.current a { color: #F06000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #88b7e5;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
@@ -945,7 +945,7 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #88b7e5; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
